@@ -1,6 +1,7 @@
 # Terraform
 
 * Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
+* Azure、AWS、Alibaba Cloud、Huawei Cloud、OpenStack, all supported at https://www.terraform.io/docs/providers/
 
 ```sh
 # Install terraform
